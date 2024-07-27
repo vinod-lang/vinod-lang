@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @vinod-lang / Vinod Sahu
+- 👀 I’m interested in innovative solutions to real-world problems and am passionate about working on open-source projects
+- 🌱 I’m currently learning @NIT Raipur Pursuing my Btech Degree in Computer Science Engineering
+- 💞️ I’m looking to work on projects that address real-world problems in healthcare or education.
+- 📫 Connect with me on LinkedIn: https://www.linkedin.com/in/vinod-sahu-41b18928a/
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I’m fascinated by the science of love and often read about how relationships and emotions influence our well-being. 😅
+- 🛠️ Skills: Java, C++, Android Development, Web Development
+- 🌟 Outside of tech, I enjoy playing football and exploring new tech trends.
